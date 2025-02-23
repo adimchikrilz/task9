@@ -5,4 +5,4 @@
 4. Kept the same age-based examples but with the new names
 5. Added additional console.log sections to show the new filtering examples
 
-6. [View the TypeScript code](https://github.com/adimchikrilz/task9/blob/main/filterPerson.ts)
+6. [View the TypeScript code](https://github.com/adimchikrilz/task9/main/filterPersons.ts)
