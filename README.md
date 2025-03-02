@@ -1,4 +1,4 @@
-# TypeScript Todo List CLI Application
+# TodoList App
 
 A feature-rich command-line interface (CLI) application for managing your todos, built with TypeScript.
 
