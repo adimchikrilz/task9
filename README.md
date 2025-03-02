@@ -25,5 +25,5 @@ When you run the application, you'll be presented with the following menu:
 7. **Remove a todo** - Delete a task from the system
 8. **Clear all completed todos** - Remove all tasks that are marked as completed
 0. **Exit application** - Close the program
-## [👉 Click here to view code](https://github.com/adimchikrilz/task9/blob/main/src/todoApp.ts)
+## [👉 Click here to view code](https://github.com/adimchikrilz/task9/blob/main/todoApp.ts)
 
